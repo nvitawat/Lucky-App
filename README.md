@@ -1,5 +1,5 @@
 # Lucky-App
 My first iOS App
-1. THIS APP FIND RANDOM NUMBER 
-2. SET UP MINIMUM AND MAXIMUN NUMBER
-3. GET NUMBER
+1. This app find random number 
+2. Input minimum and maximun number
+3. Press Start and get the number
